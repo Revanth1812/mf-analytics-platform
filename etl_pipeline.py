@@ -1,1 +1,0 @@
-print("MF Analytics Project")
